@@ -1,0 +1,15 @@
+C:\Users\tuany\Documents\atividadeavaliativa\bin\Debug\net7.0\atividadeavaliativa.exe
+C:\Users\tuany\Documents\atividadeavaliativa\bin\Debug\net7.0\atividadeavaliativa.deps.json
+C:\Users\tuany\Documents\atividadeavaliativa\bin\Debug\net7.0\atividadeavaliativa.runtimeconfig.json
+C:\Users\tuany\Documents\atividadeavaliativa\bin\Debug\net7.0\atividadeavaliativa.dll
+C:\Users\tuany\Documents\atividadeavaliativa\bin\Debug\net7.0\atividadeavaliativa.pdb
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.csproj.AssemblyReference.cache
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.AssemblyInfoInputs.cache
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.AssemblyInfo.cs
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.csproj.CoreCompileInputs.cache
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.dll
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\refint\atividadeavaliativa.dll
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.pdb
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\atividadeavaliativa.genruntimeconfig.cache
+C:\Users\tuany\Documents\atividadeavaliativa\obj\Debug\net7.0\ref\atividadeavaliativa.dll
